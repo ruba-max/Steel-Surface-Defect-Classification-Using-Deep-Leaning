@@ -14,6 +14,10 @@ Can a deep learning-based computer vision model accurately classify different ty
 6. To investigate which defect categories are difficult to distinguish.
 7. To explore model interpretability using visualization techniques.
 ### Dataset
+Name: NEU surface defect dataset, which was obtained from Kaggle
+
+Sample images
+
 ### Exploratory Data Analysis (EDA)
 ### Methodology
 ### Data Preprocessing
