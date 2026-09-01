@@ -17,6 +17,7 @@ Can a deep learning-based computer vision model accurately classify different ty
 Name: NEU surface defect dataset, which was obtained from Kaggle
 
 Sample images
+![image alt](steel_surface_defets.png)
 
 ### Exploratory Data Analysis (EDA)
 ### Methodology
