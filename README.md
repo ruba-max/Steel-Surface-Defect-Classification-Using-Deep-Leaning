@@ -19,18 +19,9 @@ Name: NEU surface defect dataset, which was obtained from Kaggle
 Sample images
 ![image alt](steel_surface_defets.png)
 
-### Exploratory Data Analysis (EDA)
 ### Methodology
 ### Data Preprocessing
-### Model Architecture
-### Training
-### Evaluation
-### Results
-### Explainability
-### Demo
-### Project Structure
-### Limitations
-### Future work
+
 
 
 
